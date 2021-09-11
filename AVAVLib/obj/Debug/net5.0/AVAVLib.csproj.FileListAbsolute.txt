@@ -1,0 +1,16 @@
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.AssemblyInfoInputs.cache
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.AssemblyInfo.cs
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.csproj.CoreCompileInputs.cache
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.deps.json
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.runtimeconfig.json
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.runtimeconfig.dev.json
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.dll
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\ref\AVAVLib.dll
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.pdb
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.dll
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\ref\AVAVLib.dll
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.pdb
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.genruntimeconfig.cache
+C:\Users\jsp\source\repos\AVAV\AVAVLib\bin\Debug\net5.0\AVAVLib.xml
+C:\Users\jsp\source\repos\AVAV\AVAVLib\obj\Debug\net5.0\AVAVLib.csprojAssemblyReference.cache

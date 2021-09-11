@@ -1,0 +1,10 @@
+id: AVAVLib
+language: CSharp
+name:
+  Default: AVAVLib
+qualifiedName:
+  Default: AVAVLib
+type: Assembly
+modifiers: {}
+items: []
+references: {}
