@@ -28,13 +28,17 @@
 		/// </summary>
 		MemberAktivitas,
 		/// <summary>
+		/// Ex-Aktive
+		/// </summary>
+		MemberExAktivitas,
+		/// <summary>
 		/// Studentisches Mitglied im AVeV
 		/// </summary>
 		MemberAvStudent,
 		/// <summary>
 		/// Mitglied im AVeV 
 		/// </summary>
-		MemberAvFull,		
+		MemberAvFull,
 		/// <summary>
 		/// Studentisches Mitglied in der HG
 		/// </summary>
@@ -50,7 +54,7 @@
 		/// <summary>
 		/// Beisitzer im Vorstand der HG
 		/// </summary>
-		MemberHgSustaining, 
+		MemberHgSustaining,
 		/// <summary>
 		/// Mitglied der GAV
 		/// </summary>
@@ -59,6 +63,10 @@
 		/// Ehrenmitglied
 		/// </summary>
 		MemberHonorary,
+		/// <summary>
+		/// Beurlaubt
+		/// </summary>
+		Suspended,
 		/// <summary>
 		/// Als StuGi aufs Haus gezogen
 		/// </summary>
